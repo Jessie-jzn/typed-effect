@@ -2,7 +2,7 @@
 
 `TypedEffect` is a customizable and lightweight React component that allows you to create typing animation effects in your React applications without external dependencies.
 
-[Chinese](README.zh_CN.md)｜[English](README.md)
+[中文](README.zh-CN.md) | [English](README.md)
 
 ## Features
 

@@ -2,7 +2,7 @@
 
 `TypedEffect` 是一个可自定义的轻量级 React 组件，允许你在 React 应用中创建打字动画效果，无需外部依赖。
 
-[中文](README.zh-CN.md)｜[英文](README.md)
+[中文](README.zh-CN.md) | [English](README.md)
 
 ## 特性
 
